@@ -1,2 +1,2 @@
-name = "prod_instance"
-env = "prod"
+name = "test_instance"
+env = "test"
